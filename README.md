@@ -63,6 +63,8 @@ b
 
 ![image](https://github.com/SivaChandranR07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497395/3ca65e0b-21a4-4bb9-a743-23fb8aa80b41)
 
+![image](https://github.com/SivaChandranR07/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497395/ca794d45-64c7-4d2e-90bc-894dfea73c74)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
